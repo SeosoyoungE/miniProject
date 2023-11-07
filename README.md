@@ -1,4 +1,4 @@
-# [2023]멀티캠퍼스 miniProject - 쇼핑몰 사이트:shirt:
+# [full-stack]멀티캠퍼스 miniProject - 쇼핑몰 사이트:shirt:
 
 블랙&화이트의 깔끔한 디자인의 쇼핑몰 사이트 OOTM(Outfit Of The Month)입니다.
 

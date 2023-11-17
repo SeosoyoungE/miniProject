@@ -19,7 +19,7 @@
 
 ## 홈페이지 소개
 - 메인페이지
-![3조프론트발표](https://github.com/SeosoyoungE/miniProject/assets/127925743/974ba07d-ced8-4d02-a040-906b520a12e8)
+![3조프론트발표](https://github.com/SeosoyoungE/miniProject/assets/127925743/d07eedb4-4abb-4338-b8b2-830bd7c53cae)
 
 ## 개발환경⚙
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/java 11-E34F26?style=for-the-badge&logo=java&logoColor=white">

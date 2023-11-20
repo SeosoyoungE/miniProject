@@ -46,6 +46,9 @@
 ![장바구니_주문페이지](https://github.com/SeosoyoungE/miniProject/assets/127925743/d9de3fd4-7604-43d6-ab7c-6f9f5f1baba2)
 <br/>
 
+- 테이블 사진
+![Shop](https://github.com/SeosoyoungE/miniProject/assets/127925743/1958a304-131a-40b2-a759-974ed146b5a0)
+<br/>
 
 ## 개발환경⚙
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/java 11-E34F26?style=for-the-badge&logo=java&logoColor=white">
